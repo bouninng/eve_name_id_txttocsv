@@ -1,5 +1,4 @@
-(https://user-images.githubusercontent.com/87803087/126738114-8e5f8536-2004-4244-af82-ca25c2696719.png)
-
+![setumei](https://user-images.githubusercontent.com/87803087/126738350-e5af300e-2f92-414f-ada5-0e2858fc49e1.png)
 # eve_name_id_txttocsv
 copy eve_online's item hyperlink to txt, change to csv for item name and itemID.
 

@@ -1,6 +1,7 @@
 ![setumei](https://user-images.githubusercontent.com/87803087/126738350-e5af300e-2f92-414f-ada5-0e2858fc49e1.png)
 # eve_name_id_txttocsv
-copy eve_online's item hyperlink to txt, change to csv for item name and itemID.
+Copy eve_online's item hyperlink to txt, change to csv for item name and itemID.
+This application is designed for item IDs. It does not support names of people, star systems, etc.
 
 ---Instructions for use---
 1:Put exe file (eve_name_id_tocsv.exe) anywhere you want.
